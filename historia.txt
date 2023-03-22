@@ -4,8 +4,5 @@ Jinm pardo tiene 43 años
 
 Nacio en colombia 
 Vivo en Bogota
-<<<<<<< HEAD
-=======
 
-Ingeniero de Sistemas
->>>>>>> cabecera
+
